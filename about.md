@@ -15,9 +15,9 @@ Do not hesitate to get in touch with me.
 
 **Interested in**
 
-1. Finding or analyzing internet-scale security problems which has impact on millions of users.
-2. Robust Testing for Software Development such as fuzz testing and related sub-topics.
-3. Competitive coding.
+1. Finding or analyzing security problems of computer software.
+2. Robustness Testing for Software Development such as fuzz testing and related sub-topics.
+3. Coding.
 
 
 **Some of my amateur/college projects**
