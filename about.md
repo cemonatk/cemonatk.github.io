@@ -59,7 +59,7 @@ Do not hesitate to get in touch with me.
 
 3. Multiple bugs in tsMuxer which is used by Universal Media Server ([https://www.universalmediaserver.com/about/](https://www.universalmediaserver.com/about/)) internally - Most starred transport stream muxer project on Github (Written in C++).
 - Out-of-bounds Read: [CVE-2021-34070](https://github.com/cemonatk/onefuzzyway/tree/main/CVEs/tsMuxer/CVE-2021-34070.md) - [Report](https://github.com/justdan96/tsMuxer/issues/426), code is actually from ffmpeg project
-- Heap Overflows: [CVE-2021-34067](https://github.com/cemonatk/onefuzzyway/tree/main/CVEs/tsMuxer/CVE-2021-34067.md), [CVE-2021-34068](https://github.com/cemonatk/onefuzzyway/tree/main/CVEs/tsMuxer/), [CVE-2021-34071](https://github.com/cemonatk/onefuzzyway/tree/main/CVEs/tsMuxer/CVE-2021-34071.md), [CVE-2021-35344](https://github.com/cemonatk/onefuzzyway/tree/main/CVEs/tsMuxer/CVE-2021-35344.md), [CVE-2021-35346](https://github.com/cemonatk/onefuzzyway/tree/main/CVEs/tsMuxer/CVE-2021-35346.md).
+- Heap Overflows: [CVE-2021-34067](https://github.com/cemonatk/onefuzzyway/tree/main/CVEs/tsMuxer/CVE-2021-34067.md), [CVE-2021-34068](https://github.com/cemonatk/onefuzzyway/tree/main/CVEs/tsMuxer/CVE-2021-34068.md), [CVE-2021-34071](https://github.com/cemonatk/onefuzzyway/tree/main/CVEs/tsMuxer/CVE-2021-34071.md), [CVE-2021-35344](https://github.com/cemonatk/onefuzzyway/tree/main/CVEs/tsMuxer/CVE-2021-35344.md), [CVE-2021-35346](https://github.com/cemonatk/onefuzzyway/tree/main/CVEs/tsMuxer/CVE-2021-35346.md).
 - Divide-by-zero: [CVE-2021-34069](https://github.com/cemonatk/onefuzzyway/tree/main/CVEs/tsMuxer/CVE-2021-34069.md).
 
 4. Multiple bugs in ffjpeg project.
