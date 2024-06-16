@@ -34,7 +34,7 @@ Do not hesitate to get in touch with me.
 **Security researcher acknowledgments**
 
 1. 35𝒕𝒉 and 92𝒕𝒉 (Nickname: [Arif Isik](https://en.wikipedia.org/wiki/G.O.R.A.#Cast)) on [Microsoft Security Response Center's Top 100 Security Researchers of 2018](https://web.archive.org/web/20240602222231/https://msrc.microsoft.com/blog/2018/08/microsofts-top-100-security-researchers-black-hat-2018-edition/). Attended [BlueHat18](https://en.wikipedia.org/wiki/BlueHat) invite-only conference in Microsoft’s Headquarters, Seattle
-2. OpenAI Hall of Fame [https://bugcrowd.com/openai/hall-of-fame](https://bugcrowd.com/openai/hall-of-fame)] (CTRL+F: cemonatk, 2023)
+2. [OpenAI](https://bugcrowd.com/openai/hall-of-fame) Hall of Fame (CTRL+F: [cemonatk](https://bugcrowd.com/cemonatk), 2023)
 3. [CVE-2017-8758: Microsoft Exchange Server Elevation of Privilege Vulnerability](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8758) - Allowed to obtain victim’s data on Outlook Web Access by sending crafted emails even it is not opened by the victim. [PoC Video](https://www.youtube.com/watch?v=aM2CgwQRlfk). More detailed PoC Video is available upon request.	
 4. [Null Pointer Dereference Bug on Oracle VM VirtualBox](https://cems.fun/2020/06/15/nullptr-dereference-virtualbox.html), [Ticket](https://www.virtualbox.org/ticket/19579), [PoC.cpp](https://www.virtualbox.org/attachment/ticket/19579/poc.cpp)
 5. [Google Chromium Remote Heap Memory Corruption](https://cems.fun/2020/03/22/Chromium-Bug.html), [Exploit-DB](https://www.exploit-db.com/exploits/48237)
