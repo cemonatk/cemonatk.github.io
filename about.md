@@ -72,3 +72,4 @@ Do not hesitate to get in touch with me.
 1. Ex-Core Member at [CanYouPwn.Me](https://canyoupwn.me/about-us/)
 2. Ex-Member of [WeedSquad](https://weedsquad.github.io/pages/wall-of-fame.html)
 3. Python for Hackers Instructor at [PwnlyDays](https://web.archive.org/web/20171213055013/http:/event.ybu.edu.tr/etkinlik/585)
+4. OSCP and OSCE certifications
