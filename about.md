@@ -44,7 +44,7 @@ Do not hesitate to get in touch with me.
 9. Several bugs of Microsoft's products and online services. (Since 2016) [1](https://www.microsoft.com/en-us/msrc/researcher-acknowledgments-online-services-archive), [2](https://portal.msrc.microsoft.com/en-us/security-guidance/researcher-acknowledgments-online-services)
 10. [Mail.Ru and Pentagon](https://hackerone.com/cemonatk/thanks)
 11. [Geeks for Geeks](https://www.geeksforgeeks.org/certificates/#Appreciation)
-12. [CERT-EU](https://cert.europa.eu/cert/newsletter/en/latest_HallOfFame_.html)
+12. [CERT-EU](https://web.archive.org/web/20250122090925/https://cert.europa.eu/hall-of-fame#:~:text=Cem)
 13. IT Department of Kocaeli University [1](https://ebys.kocaeli.edu.tr/enVision/Validate_Doc.aspx?V=BEL94JFVZ), [2](https://ebys.kocaeli.edu.tr/enVision/Validate_Doc.aspx?V=BEKVTH63)
 14. Some private programs from several platforms and direct-invites from some of big companies
 
