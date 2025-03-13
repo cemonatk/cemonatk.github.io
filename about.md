@@ -33,14 +33,14 @@ Do not hesitate to get in touch with me.
 
 **Security researcher acknowledgments**
 
-1. 35𝒕𝒉 and 92𝒕𝒉 (Nickname: [Arif Isik](https://en.wikipedia.org/wiki/G.O.R.A.#Cast)) on [Microsoft Security Response Center's Top 100 Security Researchers of 2018](https://web.archive.org/web/20240602222231/https://msrc.microsoft.com/blog/2018/08/microsofts-top-100-security-researchers-black-hat-2018-edition/). Attended [BlueHat18](https://en.wikipedia.org/wiki/BlueHat) invite-only conference in Microsoft’s Headquarters, Seattle
-2. [OpenAI](https://bugcrowd.com/openai/hall-of-fame) Hall of Fame (CTRL+F: [cemonatk](https://bugcrowd.com/cemonatk), 2023)
+1. 35𝒕𝒉 and 92𝒕𝒉 (Nickname: [Arif Isik](https://en.wikipedia.org/wiki/G.O.R.A.#Cast)) on [Microsoft Security Response Center's Top 100 Security Researchers of 2018](https://web.archive.org/web/20240602222231/https://msrc.microsoft.com/blog/2018/08/microsofts-top-100-security-researchers-black-hat-2018-edition/#:~:text=Cem). Attended [BlueHat18](https://en.wikipedia.org/wiki/BlueHat) invite-only conference in Microsoft’s Headquarters, Seattle
+2. [OpenAI](https://bugcrowd.com/cemonatk#:~:text=Hall%20of%20Fame) , 2023)
 3. [CVE-2017-8758: Microsoft Exchange Server Elevation of Privilege Vulnerability](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8758) - Allowed to obtain victim’s data on Outlook Web Access by sending crafted emails even it is not opened by the victim. [PoC Video](https://www.youtube.com/watch?v=aM2CgwQRlfk). More detailed PoC Video is available upon request.	
 4. [Null Pointer Dereference Bug on Oracle VM VirtualBox](https://cems.fun/2020/06/15/nullptr-dereference-virtualbox.html), [Ticket](https://www.virtualbox.org/ticket/19579), [PoC.cpp](https://www.virtualbox.org/attachment/ticket/19579/poc.cpp)
 5. [Google Chromium Remote Heap Memory Corruption](https://cems.fun/2020/03/22/Chromium-Bug.html), [Exploit-DB](https://www.exploit-db.com/exploits/48237)
-6. [Oracle - (6 bugs in same Critical Patch Update)](http://www.oracle.com/technetwork/security-advisory/cpujul2018-4258247.html)
-7. [Google](https://vrp-game.appspot.com/profile/fc53bebf-3574-4c00-a6a1-f72e75ff84f0)
-8. [Apple](https://support.apple.com/tr-tr/HT212716)
+6. [Oracle - (6 bugs in same Critical Patch Update)](https://web.archive.org/web/20190417195511/http://www.oracle.com/technetwork/security-advisory/cpujul2018-4258247.html#:~:text=Cem)
+7. [Google](https://web.archive.org/web/20231206083111/https://vrp-game.appspot.com/profile/fc53bebf-3574-4c00-a6a1-f72e75ff84f0)
+8. [Apple](https://web.archive.org/web/20250313125526/https://support.apple.com/tr-tr/102815#:~:text=Cem)
 9. Several bugs of Microsoft's products and online services. (Since 2016) [1](https://www.microsoft.com/en-us/msrc/researcher-acknowledgments-online-services-archive), [2](https://portal.msrc.microsoft.com/en-us/security-guidance/researcher-acknowledgments-online-services)
 10. [Mail.Ru and Pentagon](https://hackerone.com/cemonatk/thanks)
 11. [Geeks for Geeks](https://www.geeksforgeeks.org/certificates/#Appreciation)
