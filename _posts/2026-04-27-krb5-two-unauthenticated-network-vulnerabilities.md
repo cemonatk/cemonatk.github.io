@@ -1,7 +1,6 @@
 ---
 title: "Advisory - Kerberos (krb5) Two Unauthenticated Network Vulnerabilities: CVE-2026-40355 & CVE-2026-40356"
 layout: post
-date: '2026-04-27 21:50:00'
 ---
 
 ## Summary
