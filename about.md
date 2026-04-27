@@ -52,18 +52,22 @@ Do not hesitate to get in touch with me.
 
 1.  Memory Corruption (Access Violation) on Zoom for Windows (2021). Fixed and rewarded by the vendor.
 
-2. Multiple bugs in Vim Editor (Written in C).
+2. Two vulnerabilities in [MIT Kerberos (krb5)](https://kerberos.org/about/FAQ.html) (Written in C). [Advisory](https://cemonatk.github.io/2026/04/27/krb5-two-unauthenticated-network-vulnerabilities.html)
+- Null pointer dereference: [CVE-2026-40355](https://github.com/cemonatk/onefuzzyway/tree/main/CVEs/krb5/CVE-2026-40355.md).
+- Read overrun: [CVE-2026-40356](https://github.com/cemonatk/onefuzzyway/tree/main/CVEs/krb5/CVE-2026-40356.md).
+
+3. Multiple bugs in Vim Editor (Written in C).
 - Heap Overflows: [CVE-2021-3903](https://github.com/cemonatk/onefuzzyway/tree/main/CVEs/vim/CVE-2021-3903.md), [CVE-2021-3927](https://github.com/cemonatk/onefuzzyway/tree/main/CVEs/vim/CVE-2021-3927.md), [CVE-2021-3973](https://github.com/cemonatk/onefuzzyway/tree/main/CVEs/vim/CVE-2021-3973.md), [CVE-2021-3984](https://github.com/cemonatk/onefuzzyway/tree/main/CVEs/vim/CVE-2021-3984.md).
 - Use of Uninitialized Variable: [CVE-2021-3928](https://github.com/cemonatk/onefuzzyway/tree/main/CVEs/vim/CVE-2021-3928.md).
 - Use After Free: [CVE-2021-3974](https://github.com/cemonatk/onefuzzyway/tree/main/CVEs/vim/CVE-2021-3974.md).
 
 
-3. Multiple bugs in tsMuxer which is used by Universal Media Server ([https://www.universalmediaserver.com/about/](https://www.universalmediaserver.com/about/)) internally - Most starred transport stream muxer project on Github (Written in C++).
+4. Multiple bugs in tsMuxer which is used by Universal Media Server ([https://www.universalmediaserver.com/about/](https://www.universalmediaserver.com/about/)) internally - Most starred transport stream muxer project on Github (Written in C++).
 - Out-of-bounds Read: [CVE-2021-34070](https://github.com/cemonatk/onefuzzyway/tree/main/CVEs/tsMuxer/CVE-2021-34070.md) - [Report](https://github.com/justdan96/tsMuxer/issues/426), code is actually from ffmpeg project
 - Heap Overflows: [CVE-2021-34067](https://github.com/cemonatk/onefuzzyway/tree/main/CVEs/tsMuxer/CVE-2021-34067.md), [CVE-2021-34068](https://github.com/cemonatk/onefuzzyway/tree/main/CVEs/tsMuxer/CVE-2021-34068.md), [CVE-2021-34071](https://github.com/cemonatk/onefuzzyway/tree/main/CVEs/tsMuxer/CVE-2021-34071.md), [CVE-2021-35344](https://github.com/cemonatk/onefuzzyway/tree/main/CVEs/tsMuxer/CVE-2021-35344.md), [CVE-2021-35346](https://github.com/cemonatk/onefuzzyway/tree/main/CVEs/tsMuxer/CVE-2021-35346.md).
 - Divide-by-zero: [CVE-2021-34069](https://github.com/cemonatk/onefuzzyway/tree/main/CVEs/tsMuxer/CVE-2021-34069.md).
 
-4. Multiple bugs in ffjpeg project.
+5. Multiple bugs in ffjpeg project.
 - Heap Overflows: [CVE-2021-44956](https://github.com/cemonatk/onefuzzyway/tree/main/CVEs/ffjpeg/CVE-2021-44956.md).
 - Buffer Overflow in global: [CVE-2021-44957](https://github.com/cemonatk/onefuzzyway/tree/main/CVEs/ffjpeg/CVE-2021-44957.md)
 
