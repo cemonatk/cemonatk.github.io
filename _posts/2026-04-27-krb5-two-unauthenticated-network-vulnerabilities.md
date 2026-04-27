@@ -6,9 +6,9 @@ layout: post
 ## Management Summary
 
 Two unauthenticated network vulnerabilities were identified in [MIT Kerberos
-(krb5)](https://kerberos.org/about/FAQ.html). A crafted message could cause a
+(krb5)](https://kerberos.org/about/FAQ.html). A crafted packet could cause a
 null pointer dereference and terminate the process, and a separate crafted
-message could trigger a read overrun of up to 52 bytes. The issues were fixed
+packet could trigger a read overrun of up to 52 bytes. The issues were fixed
 upstream in [commit
 `2e75f0d`](https://github.com/krb5/krb5/commit/2e75f0d9362fb979f5fc92829431a590a130929f).
 
