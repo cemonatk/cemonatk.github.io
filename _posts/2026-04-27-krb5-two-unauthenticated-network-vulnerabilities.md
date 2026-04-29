@@ -19,7 +19,9 @@ software implementation originally developed at MIT. According to the official
 [MIT Kerberos FAQ](https://kerberos.org/about/FAQ.html), Kerberos is built into
 all major operating systems, serves as the authentication mechanism for
 Microsoft Active Directory, and is conservatively estimated to be used by well
-over 100 million people worldwide. The FAQ also describes Kerberos as one of
+over 100 million people worldwide. 
+
+The FAQ also describes Kerberos as one of
 the most widely adopted authentication technologies in computer networking, and
 states that one organization alone uses the MIT Kerberos software for over 50
 million unique logons per month.
