@@ -26,12 +26,7 @@ million unique logons per month.
 
 The project is also integrated into [Google's
 OSS-Fuzz](https://google.github.io/oss-fuzz/#:~:text=Google%20created%20OSS%2DFuzz%20to%20fill%20this%20gap%3A%20it%E2%80%99s%20a%20free%20service%20that%20runs%20fuzzers%20for%20open%20source%20projects%20and%20privately%20alerts%20developers%20to%20the%20bugs%20detected)
-continuous fuzzing service. The public
-[krb5 OSS-Fuzz project directory](https://github.com/google/oss-fuzz/tree/master/projects/krb5)
-and its
-[project configuration](https://raw.githubusercontent.com/google/oss-fuzz/master/projects/krb5/project.yaml)
-show fuzzing coverage with libFuzzer, AFL, and Honggfuzz, together with
-address, memory, and undefined-behavior sanitizers.
+continuous fuzzing service. 
 
 ## Technical Details
 
