@@ -58,10 +58,12 @@ Do not hesitate to get in touch with me.
       </td>
       <td style="width: 50%; vertical-align: top;">
         <ol style="margin-top: 0;">
+          <li>Apple APFS (OOB Write, <a href="https://web.archive.org/web/20260802123957/https://security.apple.com/bounty/target-flags/">Target Flag Captured</a>) - <a href="https://web.archive.org/web/20260914205537/https://support.apple.com/en-us/149036#:~:text=CVE%2D2026%2D84523">CVE-2026-84523</a></li>
+          <li>Multiple Apple Kernel Vulnerability Reports - <a href="https://web.archive.org/web/20260914205537/https://support.apple.com/en-us/149036#:~:text=Cem%20Onat%20Karagun,-%2C%20James%20Duffy">Acknowledgment - September 2026</a></li>
           <li>Apple OS X HFS (XNU Kernel OOB Read with Disk-Write Primitive) - <a href="https://web.archive.org/web/20260727181013/https://support.apple.com/en-us/128067#:~:text=CVE-2026-43773">CVE-2026-43773</a></li>
           <li>Apple OS X mDNSResponder (OOB Write) - <a href="https://web.archive.org/web/20260727181013/https://support.apple.com/en-us/128067#:~:text=CVE-2026-43806">CVE-2026-43806</a></li>
           <li><a href="https://web.archive.org/web/20260727181013/https://support.apple.com/en-us/128067#:~:text=Cem%20Onat%20Karagun">Apple OS X XAR Vulnerability - 2026</a></li>
-          <li><a href="https://web.archive.org/web/20260513200315/https://support.apple.com/en-us/127115#:~:text=Cem">Apple OS X PPP (OOB Read) - 2026</a></li>
+          <li>Apple OS X PPP (OOB Read) - 2026 - <a href="https://web.archive.org/web/20260513200315/https://support.apple.com/en-us/127115#:~:text=Cem">macOS Tahoe 26.5</a>, <a href="https://web.archive.org/web/20260914190822/https://support.apple.com/en-us/149035#:~:text=acknowledge%20Cem%20Onat%20Karagun">macOS Golden Gate 27</a></li>
           <li><a href="https://cems.fun/2020/06/15/nullptr-dereference-virtualbox.html">Null Pointer Dereference Bug on Oracle VM VirtualBox</a>, <a href="https://web.archive.org/web/20200716174350/https://www.virtualbox.org/ticket/19579">Ticket</a>, <a href="https://web.archive.org/web/20201119104854/https://www.virtualbox.org/attachment/ticket/19579/poc.cpp">PoC.cpp</a></li>
           <li><a href="https://cems.fun/2020/03/22/Chromium-Bug.html">Google Chromium Remote Heap Memory Corruption</a>, <a href="https://www.exploit-db.com/exploits/48237">Exploit-DB</a></li>
           <li>Memory Corruption (Access Violation) on Zoom for Windows (2021). Fixed and rewarded by the vendor.</li>
