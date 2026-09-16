@@ -1,9 +1,11 @@
 ---
-title: "Capturing an Apple Target Flag in XNU - Kernel Register Control"
+title: "Capturing an Apple Target Flag in XNU - Part 1: Fixed in Beta"
 description: "An HFS+ attribute B-tree overflow placed a boot-specific Apple Target Flag into an XNU register, proving kernel register control on macOS."
 layout: post
 date: 2026-08-03 21:00:00 +0200
 ---
+
+Next in this series: [Capturing an Apple Target Flag in XNU - Part 2: Internal Duplicate](/2026/09/16/apple-target-flag-apfs-part-2.html)
 
 In July, Apple fixed [four issues I reported in macOS Tahoe
 26.6](https://cems.fun/2026/07/27/apple-security-update-four-issues.html): two
