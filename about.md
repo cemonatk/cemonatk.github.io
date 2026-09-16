@@ -8,27 +8,28 @@ permalink: "/about/"
 
 I write blog posts which are mostly related to computer security. Currently, I'm living in Berlin, Germany.
 
-You can find more information about me on my [LinkedIn profile](https://www.linkedin.com/in/cemkaragun/).
+**Research interests**
 
-Do not hesitate to get in touch with me.
-
-
-**Interested in**
-
-1. Finding or analyzing security problems of computer software.
-2. Robustness Testing for Software Development such as fuzz testing and related sub-topics [https://github.com/cemonatk/onefuzzyway](https://github.com/cemonatk/onefuzzyway).
-3. Coding.
+1. Finding and analyzing software security vulnerabilities.
+2. Software robustness testing, including fuzzing and related techniques, through [OneFuzzyWay](https://github.com/cemonatk/onefuzzyway).
+3. Programming and security-tool development.
 
 
-**Some of my amateur/college projects**
+**Projects**
 
-1. Padding Oracle Demo [1](https://github.com/cemonatk/padding-oracle-demo) 
-3. Estimator Tool Development for Number of People in a Particular Area
-4. Designing Downgrader from LTE GRC Block for UHDs
-5. EMP Generator Circuit on PCB [1](https://www.youtube.com/watch?v=0AXbYcZK5Zg), [2](https://www.youtube.com/watch?v=L3rPS9NVulY)
-6. KOU OBS iOS Mobile Application [1](https://archive.fo/IFAER), [2](https://apps.apple.com/tr/app/ko%C3%BC-%C3%B6bs/id1299810090)
-7. Temperature Measurement on MSP430 MCU (Microcontroller Unit) Server via Bluetooth Comm.
-8. Simple Link Shortener [1](https://github.com/cemonatk/simple-linkshortener)
+1. [Eren: Reachability Triage for Fuzz Harnesses vs. Production Routes](https://blackhat.com/europe/arsenal/schedule/#eren-reachability-triage-for-fuzz-harnesses-vs-production-routes-56736)
+2. [Padding Oracle Demo](https://github.com/cemonatk/padding-oracle-demo)
+3. Designing Downgrader from LTE GRC Block for UHDs
+4. [EMP Generator Circuit on PCB](https://www.youtube.com/watch?v=0AXbYcZK5Zg)
+5. [KOU OBS iOS Mobile Application](https://archive.fo/IFAER)
+6. [Simple Link Shortener](https://github.com/cemonatk/simple-linkshortener)
+
+**Other**
+
+1. Former core member at [CanYouPwn.Me](https://canyoupwn.me/about-us/)
+2. Former member of the [WeedSquad](https://weedsquad.github.io/pages/wall-of-fame.html) CTF team
+3. Python for Hackers Instructor at [PwnlyDays](https://web.archive.org/web/20171213055013/http:/event.ybu.edu.tr/etkinlik/585)
+4. [OSCP](https://www.credly.com/badges/c272b996-f445-403a-8b38-da9a6b177d28), [OSCE](https://www.credly.com/badges/b98600e8-4cc2-433f-a531-47247e205aaf), and [Google Cloud Professional Cloud Security Engineer](https://www.credly.com/badges/d3a3fa2a-2271-4e96-9081-a9cd7ae4e694) certifications
 
 
 <table style="width: 100%; table-layout: fixed;">
@@ -58,15 +59,15 @@ Do not hesitate to get in touch with me.
       </td>
       <td style="width: 50%; vertical-align: top;">
         <ol style="margin-top: 0;">
-          <li>Apple APFS (OOB Write, <a href="https://web.archive.org/web/20260802123957/https://security.apple.com/bounty/target-flags/">Target Flag Captured</a>) - <a href="https://web.archive.org/web/20260914205537/https://support.apple.com/en-us/149036#:~:text=CVE%2D2026%2D84523">CVE-2026-84523</a></li>
+          <li>Apple APFS (out-of-bounds write, <a href="https://web.archive.org/web/20260802123957/https://security.apple.com/bounty/target-flags/">Target Flag Captured</a>) - <a href="https://web.archive.org/web/20260914205537/https://support.apple.com/en-us/149036#:~:text=CVE%2D2026%2D84523">CVE-2026-84523</a></li>
           <li>Multiple Apple Kernel Vulnerability Reports - <a href="https://web.archive.org/web/20260914205537/https://support.apple.com/en-us/149036#:~:text=Cem%20Onat%20Karagun,-%2C%20James%20Duffy">Acknowledgment - September 2026</a></li>
-          <li>Apple OS X HFS (XNU Kernel OOB Read with Disk-Write Primitive) - <a href="https://web.archive.org/web/20260727181013/https://support.apple.com/en-us/128067#:~:text=CVE-2026-43773">CVE-2026-43773</a></li>
-          <li>Apple OS X mDNSResponder (OOB Write) - <a href="https://web.archive.org/web/20260727181013/https://support.apple.com/en-us/128067#:~:text=CVE-2026-43806">CVE-2026-43806</a></li>
-          <li><a href="https://web.archive.org/web/20260727181013/https://support.apple.com/en-us/128067#:~:text=Cem%20Onat%20Karagun">Apple OS X XAR Vulnerability - 2026</a></li>
-          <li>Apple OS X PPP (OOB Read) - 2026 - <a href="https://web.archive.org/web/20260513200315/https://support.apple.com/en-us/127115#:~:text=Cem">macOS Tahoe 26.5</a>, <a href="https://web.archive.org/web/20260914190822/https://support.apple.com/en-us/149035#:~:text=acknowledge%20Cem%20Onat%20Karagun">macOS Golden Gate 27</a></li>
-          <li><a href="https://cems.fun/2020/06/15/nullptr-dereference-virtualbox.html">Null Pointer Dereference Bug on Oracle VM VirtualBox</a>, <a href="https://web.archive.org/web/20200716174350/https://www.virtualbox.org/ticket/19579">Ticket</a>, <a href="https://web.archive.org/web/20201119104854/https://www.virtualbox.org/attachment/ticket/19579/poc.cpp">PoC.cpp</a></li>
-          <li><a href="https://cems.fun/2020/03/22/Chromium-Bug.html">Google Chromium Remote Heap Memory Corruption</a>, <a href="https://www.exploit-db.com/exploits/48237">Exploit-DB</a></li>
-          <li>Memory Corruption (Access Violation) on Zoom for Windows (2021). Fixed and rewarded by the vendor.</li>
+          <li>Apple macOS HFS+ (XNU kernel out-of-bounds read with disk-write primitive) - <a href="https://web.archive.org/web/20260727181013/https://support.apple.com/en-us/128067#:~:text=CVE-2026-43773">CVE-2026-43773</a></li>
+          <li>Apple macOS mDNSResponder (out-of-bounds write) - <a href="https://web.archive.org/web/20260727181013/https://support.apple.com/en-us/128067#:~:text=CVE-2026-43806">CVE-2026-43806</a></li>
+          <li><a href="https://web.archive.org/web/20260727181013/https://support.apple.com/en-us/128067#:~:text=Cem%20Onat%20Karagun">Apple macOS xar vulnerability - 2026</a></li>
+          <li>Apple macOS PPP (out-of-bounds read) - 2026 - <a href="https://web.archive.org/web/20260513200315/https://support.apple.com/en-us/127115#:~:text=Cem">macOS Tahoe 26.5</a>, <a href="https://web.archive.org/web/20260914190822/https://support.apple.com/en-us/149035#:~:text=acknowledge%20Cem%20Onat%20Karagun">macOS Golden Gate 27</a></li>
+          <li><a href="https://cems.fun/2020/06/15/nullptr-dereference-virtualbox.html">Null pointer dereference in Oracle VM VirtualBox</a>, <a href="https://web.archive.org/web/20200716174350/https://www.virtualbox.org/ticket/19579">Ticket</a>, <a href="https://web.archive.org/web/20201119104854/https://www.virtualbox.org/attachment/ticket/19579/poc.cpp">PoC.cpp</a></li>
+          <li><a href="https://cems.fun/2020/03/22/Chromium-Bug.html">Google Chromium remote heap memory corruption</a>, <a href="https://www.exploit-db.com/exploits/48237">Exploit-DB</a></li>
+          <li>Memory corruption (access violation) in Zoom for Windows (2021). Fixed and rewarded by the vendor.</li>
           <li>Two vulnerabilities in <a href="https://kerberos.org/about/FAQ.html">MIT Kerberos (krb5)</a>. <a href="https://cemonatk.github.io/2026/04/27/krb5-two-unauthenticated-network-vulnerabilities.html">Advisory</a>
             <ul>
               <li>Null pointer dereference: <a href="https://github.com/cemonatk/onefuzzyway/tree/main/CVEs/krb5/CVE-2026-40355.md">CVE-2026-40355</a>.</li>
@@ -75,22 +76,22 @@ Do not hesitate to get in touch with me.
           </li>
           <li>Multiple bugs in Vim Editor (Written in C).
             <ul>
-              <li>Heap Overflows: <a href="https://github.com/cemonatk/onefuzzyway/tree/main/CVEs/vim/CVE-2021-3903.md">CVE-2021-3903</a>, <a href="https://github.com/cemonatk/onefuzzyway/tree/main/CVEs/vim/CVE-2021-3927.md">CVE-2021-3927</a>, <a href="https://github.com/cemonatk/onefuzzyway/tree/main/CVEs/vim/CVE-2021-3973.md">CVE-2021-3973</a>, <a href="https://github.com/cemonatk/onefuzzyway/tree/main/CVEs/vim/CVE-2021-3984.md">CVE-2021-3984</a>.</li>
-              <li>Use of Uninitialized Variable: <a href="https://github.com/cemonatk/onefuzzyway/tree/main/CVEs/vim/CVE-2021-3928.md">CVE-2021-3928</a>.</li>
-              <li>Use After Free: <a href="https://github.com/cemonatk/onefuzzyway/tree/main/CVEs/vim/CVE-2021-3974.md">CVE-2021-3974</a>.</li>
+              <li>Heap overflows: <a href="https://github.com/cemonatk/onefuzzyway/tree/main/CVEs/vim/CVE-2021-3903.md">CVE-2021-3903</a>, <a href="https://github.com/cemonatk/onefuzzyway/tree/main/CVEs/vim/CVE-2021-3927.md">CVE-2021-3927</a>, <a href="https://github.com/cemonatk/onefuzzyway/tree/main/CVEs/vim/CVE-2021-3973.md">CVE-2021-3973</a>, <a href="https://github.com/cemonatk/onefuzzyway/tree/main/CVEs/vim/CVE-2021-3984.md">CVE-2021-3984</a>.</li>
+              <li>Use of uninitialized variable: <a href="https://github.com/cemonatk/onefuzzyway/tree/main/CVEs/vim/CVE-2021-3928.md">CVE-2021-3928</a>.</li>
+              <li>Use-after-free: <a href="https://github.com/cemonatk/onefuzzyway/tree/main/CVEs/vim/CVE-2021-3974.md">CVE-2021-3974</a>.</li>
             </ul>
           </li>
           <li>Multiple bugs in tsMuxer which is used by Universal Media Server (<a href="https://www.universalmediaserver.com/about/">https://www.universalmediaserver.com/about/</a>) internally - Most starred transport stream muxer project on Github (Written in C++).
             <ul>
-              <li>Out-of-bounds Read: <a href="https://github.com/cemonatk/onefuzzyway/tree/main/CVEs/tsMuxer/CVE-2021-34070.md">CVE-2021-34070</a> - <a href="https://github.com/justdan96/tsMuxer/issues/426">Report</a>, code is actually from ffmpeg project</li>
-              <li>Heap Overflows: <a href="https://github.com/cemonatk/onefuzzyway/tree/main/CVEs/tsMuxer/CVE-2021-34067.md">CVE-2021-34067</a>, <a href="https://github.com/cemonatk/onefuzzyway/tree/main/CVEs/tsMuxer/CVE-2021-34068.md">CVE-2021-34068</a>, <a href="https://github.com/cemonatk/onefuzzyway/tree/main/CVEs/tsMuxer/CVE-2021-34071.md">CVE-2021-34071</a>, <a href="https://github.com/cemonatk/onefuzzyway/tree/main/CVEs/tsMuxer/CVE-2021-35344.md">CVE-2021-35344</a>, <a href="https://github.com/cemonatk/onefuzzyway/tree/main/CVEs/tsMuxer/CVE-2021-35346.md">CVE-2021-35346</a>.</li>
+              <li>Out-of-bounds read: <a href="https://github.com/cemonatk/onefuzzyway/tree/main/CVEs/tsMuxer/CVE-2021-34070.md">CVE-2021-34070</a> - <a href="https://github.com/justdan96/tsMuxer/issues/426">Report</a>, code is actually from ffmpeg project</li>
+              <li>Heap overflows: <a href="https://github.com/cemonatk/onefuzzyway/tree/main/CVEs/tsMuxer/CVE-2021-34067.md">CVE-2021-34067</a>, <a href="https://github.com/cemonatk/onefuzzyway/tree/main/CVEs/tsMuxer/CVE-2021-34068.md">CVE-2021-34068</a>, <a href="https://github.com/cemonatk/onefuzzyway/tree/main/CVEs/tsMuxer/CVE-2021-34071.md">CVE-2021-34071</a>, <a href="https://github.com/cemonatk/onefuzzyway/tree/main/CVEs/tsMuxer/CVE-2021-35344.md">CVE-2021-35344</a>, <a href="https://github.com/cemonatk/onefuzzyway/tree/main/CVEs/tsMuxer/CVE-2021-35346.md">CVE-2021-35346</a>.</li>
               <li>Divide-by-zero: <a href="https://github.com/cemonatk/onefuzzyway/tree/main/CVEs/tsMuxer/CVE-2021-34069.md">CVE-2021-34069</a>.</li>
             </ul>
           </li>
           <li>Multiple bugs in ffjpeg project.
             <ul>
-              <li>Heap Overflows: <a href="https://github.com/cemonatk/onefuzzyway/tree/main/CVEs/ffjpeg/CVE-2021-44956.md">CVE-2021-44956</a>.</li>
-              <li>Buffer Overflow in global: <a href="https://github.com/cemonatk/onefuzzyway/tree/main/CVEs/ffjpeg/CVE-2021-44957.md">CVE-2021-44957</a></li>
+              <li>Heap overflow: <a href="https://github.com/cemonatk/onefuzzyway/tree/main/CVEs/ffjpeg/CVE-2021-44956.md">CVE-2021-44956</a>.</li>
+              <li>Global buffer overflow: <a href="https://github.com/cemonatk/onefuzzyway/tree/main/CVEs/ffjpeg/CVE-2021-44957.md">CVE-2021-44957</a></li>
             </ul>
           </li>
         </ol>
@@ -98,10 +99,3 @@ Do not hesitate to get in touch with me.
     </tr>
   </tbody>
 </table>
-
-**Other**
-
-1. Ex-Core Member at [CanYouPwn.Me](https://canyoupwn.me/about-us/)
-2. Ex-Member of [WeedSquad](https://weedsquad.github.io/pages/wall-of-fame.html)
-3. Python for Hackers Instructor at [PwnlyDays](https://web.archive.org/web/20171213055013/http:/event.ybu.edu.tr/etkinlik/585)
-4. [OSCP](https://www.credly.com/badges/c272b996-f445-403a-8b38-da9a6b177d28), [OSCE](https://www.credly.com/badges/b98600e8-4cc2-433f-a531-47247e205aaf), and [Google Cloud Professional Cloud Security Engineer](https://www.credly.com/badges/d3a3fa2a-2271-4e96-9081-a9cd7ae4e694) certifications
