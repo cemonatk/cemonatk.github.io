@@ -59,6 +59,7 @@ I write blog posts which are mostly related to computer security. Currently, I'm
       </td>
       <td style="width: 50%; vertical-align: top;">
         <ol style="margin-top: 0;">
+          <li>Apple macOS SMB (integer underflow, network attack vector) - <a href="https://support.apple.com/en-us/149035#:~:text=CVE%2D2026%2D86871%3A%20Ashish%20Kunwar%2C%20Cem%20Onat%20Karagun%2C%20John%20Lussier">CVE-2026-86871</a></li>
           <li>Apple APFS (out-of-bounds write, <a href="https://web.archive.org/web/20260802123957/https://security.apple.com/bounty/target-flags/">Target Flag Captured</a>) - <a href="https://web.archive.org/web/20260914205537/https://support.apple.com/en-us/149036#:~:text=CVE%2D2026%2D84523">CVE-2026-84523</a></li>
           <li>Multiple Apple Kernel Vulnerability Reports - <a href="https://web.archive.org/web/20260914205537/https://support.apple.com/en-us/149036#:~:text=Cem%20Onat%20Karagun,-%2C%20James%20Duffy">Acknowledgment - September 2026</a></li>
           <li>Apple macOS HFS+ (XNU kernel out-of-bounds read with disk-write primitive) - <a href="https://web.archive.org/web/20260727181013/https://support.apple.com/en-us/128067#:~:text=CVE-2026-43773">CVE-2026-43773</a></li>
