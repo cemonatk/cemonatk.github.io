@@ -1,0 +1,9 @@
+_site
+_site-preview/
+.sass-cache
+.jekyll-metadata
+vendor/
+.bundle/
+.bundle-home/
+.local-bin/
+.local-gems/
