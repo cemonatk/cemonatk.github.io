@@ -20,7 +20,7 @@ I write blog posts which are mostly related to computer security. Currently, I'm
 1. [Eren: Reachability Triage for Fuzz Harnesses vs. Production Routes](https://blackhat.com/europe/arsenal/schedule/#eren-reachability-triage-for-fuzz-harnesses-vs-production-routes-56736)
 2. [Padding Oracle Demo](https://github.com/cemonatk/padding-oracle-demo)
 3. Designing Downgrader from LTE GRC Block for UHDs
-4. [EMP Generator Circuit on PCB](https://www.youtube.com/watch?v=0AXbYcZK5Zg)
+4. [EMP Generator Circuit on PCB](/2017/01/07/emp-generator-circuit-pcb.html)
 5. [KOU OBS iOS Mobile Application](https://archive.fo/IFAER)
 6. [Simple Link Shortener](https://github.com/cemonatk/simple-linkshortener)
 
