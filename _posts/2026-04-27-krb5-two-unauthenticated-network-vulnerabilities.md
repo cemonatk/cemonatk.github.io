@@ -11,6 +11,8 @@ null pointer dereference and terminate the process, and a separate crafted
 packet could trigger a read overrun of up to 52 bytes. The issues were fixed
 upstream in [commit
 `2e75f0d`](https://github.com/krb5/krb5/commit/2e75f0d9362fb979f5fc92829431a590a130929f).
+MIT published [MITKRB5-SA-2026-001](https://web.mit.edu/kerberos/advisories/MITKRB5-SA-2026-001.txt)
+for both vulnerabilities.
 
 ## Downstream Advisories
 
